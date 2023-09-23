@@ -1,7 +1,10 @@
 {
     "tigGrgoup": [
-        {"name": "Jhon", "born": 2013, "job": "leader"},
-        {"name": "Kim", "born": 2015, "job": "manager"},
-        {"name": "James", "born": 2016, "job": "cook"}
+        {"name": "Jhon", "born": 2010, "job": "leader"},
+        {"name": "Kim", "born": 2012, "job": "manager"},
+        {"name": "James", "born": 2013, "job": "cook"},
+        {"name": "Andam", "born": 2014, "job": "cook"},
+        {"name": "David", "born": 2013, "job": "farmer"},
+        {"name": "Grace", "born": 2016, "job": "coach"}
     ]
 }
