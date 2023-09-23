@@ -1,0 +1,7 @@
+{
+    "tigGrgoup": [
+        {"name": "Jhon", "born": 2013, "job": "leader"},
+        {"name": "Kim", "born": 2015, "job": "manager"},
+        {"name": "James", "born": 2016, "job": "cook"}
+    ]
+}
