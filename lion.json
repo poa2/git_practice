@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Team-lion",
+        "team": [
+            {"name": "Frank", "born": 2012, "job": "leader"},
+            {"name": "Duna", "born": 2014, "job": "manager"},
+            {"name": "Brown", "born": 2015, "job": "cook"},
+            {"name": "Amanda", "born": 2016, "job": "cook"},
+            {"name": "Choi", "born": 2012, "job": "farmer"},
+            {"name": "Lua", "born": 2013, "job": "farmer"},
+            {"name": "Andam", "born": 2014, "job": "fighter"},
+            {"name": "Nana", "born": 2015, "job": "coach"}
+        ]
+    }
+]
