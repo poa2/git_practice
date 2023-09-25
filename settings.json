@@ -1,7 +1,7 @@
 {
     "born_new-animal": {
         "tiger": true,
-        "lion": false,
+        "lion": true,
         "cheeta": false
     },
     "animal_league.league_allow": true,
