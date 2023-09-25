@@ -1,4 +1,4 @@
-# [](https://github.com)!! Everyone must click on **[THIS BUTTON](https://github.com)** !!
+# [](https://github.com) Everyone must click on **[THIS BUTTON](https://github.com)** ..
 \<br\><br>\<br\><br>\<br\><br>\<br\><br>
 ## Introduce
 ### What's poa2's Git practice
