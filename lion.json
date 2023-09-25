@@ -4,12 +4,21 @@
         "team": [
             {"name": "Frank", "born": 2012, "job": "leader"},
             {"name": "Duna", "born": 2014, "job": "manager"},
-            {"name": "Brown", "born": 2015, "job": "cook"},
             {"name": "Amanda", "born": 2016, "job": "cook"},
             {"name": "Choi", "born": 2012, "job": "farmer"},
             {"name": "Lua", "born": 2013, "job": "farmer"},
-            {"name": "Andam", "born": 2014, "job": "fighter"},
             {"name": "Nana", "born": 2015, "job": "coach"}
+        ]
+    },
+    {
+        "name": "Fightlions",
+        "team": [
+            {"name": "Genstein", "born": 2013, "job": "leader"},
+            {"name": "Mandala", "born": 2015, "job": "manager"},
+            {"name": "Brown", "born": 2015, "job": "cook"},
+            {"name": "Andam", "born": 2014, "job": "fighter"},
+            {"name": "Donald", "born": 2015, "job": "fighter"},
+            {"name": "Lee", "born": 2014, "job": "coach"}
         ]
     }
 ]
