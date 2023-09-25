@@ -1,0 +1,14 @@
+day:
+- year: 2023
+- month: 06
+- day: 16
+
+this_month_conts:
+- tigteam: "James"
+- twoteam: "Andrew"
+
+result:
+- 1st: "Andrew"
+- 2nd: "James"
+
+won_team: "tigteam"

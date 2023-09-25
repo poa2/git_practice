@@ -13,12 +13,11 @@
     {
         "name": "twoTeam",
         "team": [
-            {"name": "Jhon", "born": 2013, "job": "leader"},
-            {"name": "Kim", "born": 2015, "job": "manager"},
-            {"name": "James", "born": 2016, "job": "cook"},
-            {"name": "Andam", "born": 2014, "job": "cook"},
-            {"name": "David", "born": 2013, "job": "farmer"},
-            {"name": "Grace", "born": 2016, "job": "coach"}
+            {"name": "Park", "born": 2012, "job": "leader"},
+            {"name": "Olivia", "born": 2014, "job": "manager"},
+            {"name": "Andrew", "born": 2015, "job": "cook"},
+            {"name": "Jack", "born": 2013, "job": "farmer"},
+            {"name": "William", "born": 2014, "job": "coach"}
         ]
     }
 ]
