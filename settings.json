@@ -2,7 +2,8 @@
     "born_new-animal": {
         "tiger": true,
         "lion": false,
-        "cheeta": false
+        "cheeta": false,
+        "elephant": true
     },
     "animal_league.league_allow": true,
     "animal_league.next_league": {"year": 2024, "month": 1, "day": 16}
